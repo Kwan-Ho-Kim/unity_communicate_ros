@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/root/ros2_ws/build/unity_communicate",
+        "/root/ros2_ws/install/unity_communicate/lib/python3.10/site-packages",
+        "/root/ros2_ws/build/ros_tcp_endpoint",
+        "/root/ros2_ws/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+        "/root/ros2_ws/install/ouster_sensor_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/root/ros2_ws/build/unity_communicate",
+        "/root/ros2_ws/install/unity_communicate/lib/python3.10/site-packages",
+        "/root/ros2_ws/build/ros_tcp_endpoint",
+        "/root/ros2_ws/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+        "/root/ros2_ws/install/ouster_sensor_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
